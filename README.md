@@ -1,2 +1,4 @@
 # JPACustomRepository
-自定义JPA 的 Repository
+这段时间太忙,过两天补一下博客吧....
+综合了两个前辈的技术,一个是如何做自定义的Repository,一个是链式调用法将 specification 的各个方法串起来使用(这个其实就是个思路指引,倒也不难实现)
+稍微写了一个简单的 Demo,还有一些"高级使用方法",😄 总得有点黑科技
